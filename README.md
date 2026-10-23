@@ -1,9 +1,3 @@
-<h2>📸 Demonstração do projeto</h2>
+## 📸 Demonstração do projeto
 
-<p align="center">
-  <img
-    src="assets/img/TelaLogin.jpg"
-    alt="Tela do sistema MundoAuto"
-    width="700"
-  />
-</p>
+![Tela do MundoAuto](/img/TelaLogin.jpg)

@@ -58,8 +58,9 @@ Não é necessário instalar dependências para abrir as páginas HTML localment
 As capturas de tela das interfaces poderão ser adicionadas a esta seção conforme o projeto evoluir.
 
 
-[Tela de login do MundoAuto](img/TelaLogin.png)
-[Tela de cadastro do MundoAuto](img/TelaCadastro.png)
+[Tela de login do MundoAuto](assets/img/TelaLogin.jpg)
+[Tela de cadastro do MundoAuto](assets/img/TelaCadastro.jpg)
+
 
 
 ## ⚠️ Status do projeto

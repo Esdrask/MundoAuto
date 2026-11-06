@@ -2,18 +2,18 @@
 
 **Projeto web voltado à interface de um site de automóveis, com páginas de login e cadastro de usuários.**
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O MundoAuto é um projeto de desenvolvimento web que apresenta interfaces para login e cadastro de usuários, utilizando HTML e CSS.
 
 O objetivo é desenvolver e aprimorar conhecimentos em estruturação de páginas web, estilização de formulários e organização de um projeto front-end.
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - **HTML5:** estruturação das páginas e dos formulários.
 - **CSS3:** estilização e apresentação visual das interfaces.
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```text
 MundoAuto/
@@ -25,7 +25,7 @@ MundoAuto/
 └── README.md
 ```
 
-## 🖥️ Páginas disponíveis
+##  Páginas disponíveis
 
 ### Login
 
@@ -35,7 +35,7 @@ Interface de acesso com campos para e-mail e senha, opção de lembrar senha e l
 
 Formulário com campos para nome, sobrenome, e-mail, celular, senha, confirmação de senha e seleção de gênero.
 
-## 🚀 Como executar o projeto
+##  Como executar o projeto
 
 1. Clone o repositório:
 
@@ -53,30 +53,30 @@ Formulário com campos para nome, sobrenome, e-mail, celular, senha, confirmaç�
 
 Não é necessário instalar dependências para abrir as páginas HTML localmente.
 
-## 📷 Demonstração
+##  Demonstração
 
 As capturas de tela das interfaces poderão ser adicionadas a esta seção conforme o projeto evoluir.
 
 
-[Tela de login do MundoAuto](assets/img/TelaLogin.jpg)
-[Tela de cadastro do MundoAuto](assets/img/TelaCadastro.jpg)
+![Tela de login do MundoAuto](img/TelaLogin.jpg)
+![Tela de cadastro do MundoAuto](img/TelaCadastro.jpg)
 
 
 
-## ⚠️ Status do projeto
+##  Status do projeto
 
 Projeto em desenvolvimento.
 
 As interfaces apresentadas não devem ser consideradas um sistema de autenticação completo. A implementação de funcionalidades de autenticação e persistência de dados depende de desenvolvimento adicional.
 
-## 🎯 Objetivos de aprendizado
+##  Objetivos de aprendizado
 
 - Praticar HTML5 e CSS3.
 - Desenvolver formulários web.
 - Organizar arquivos de um projeto front-end.
 - Aprimorar a qualidade e a manutenção do código.
 
-## 👨‍💻 Autor
+##  Autor
 
 **Esdrask**
 

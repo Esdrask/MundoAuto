@@ -49,7 +49,7 @@ Formulário com campos para nome, sobrenome, e-mail, celular, senha, confirmaç�
    cd MundoAuto
    ```
 
-3. Abra o arquivo `indexLogin.html` ou `indexCadastro.html` no navegador.
+3. Abra o arquivo `Login.html` ou `Cadastro.html` no navegador.
 
 Não é necessário instalar dependências para abrir as páginas HTML localmente.
 

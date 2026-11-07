@@ -37,9 +37,7 @@ body {
     padding: 3rem;
     backdrop-filter: blur(120px);
     border-radius: 10px;
-    border: 2px solid rgb(255, 255 , 255, .2);
-    
-    
+    border: 2px solid rgb(255, 255 , 255, .2);  
 }
 
 .form-header {
